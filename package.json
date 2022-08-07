@@ -2,6 +2,7 @@
   "name": "seundev",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://oluwaseunoa.github.io/seundev",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
